@@ -1,0 +1,5 @@
+{
+    "singlequote":true,
+    "arrowParens":"avoid",
+    "semi":false
+}
